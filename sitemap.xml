@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://mercoradigital.com/</loc>
+    <lastmod>2024-03-15</lastmod> <!-- CHANGE THIS DATE -->
+    <priority>1.00</priority>
+  </url>
+  <url>
+    <loc>https://mercoradigital.com/about.html</loc>
+    <lastmod>2024-03-15</lastmod> <!-- CHANGE THIS DATE -->
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://mercoradigital.com/services.html</loc>
+    <lastmod>2024-03-15</lastmod> <!-- CHANGE THIS DATE -->
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://mercoradigital.com/blog.html</loc>
+    <lastmod>2024-03-15</lastmod> <!-- CHANGE THIS DATE -->
+    <priority>0.70</priority>
+  </url>
+  <url>
+    <loc>https://mercoradigital.com/contact.html</loc>
+    <lastmod>2024-03-15</lastmod> <!-- CHANGE THIS DATE -->
+    <priority>0.80</priority>
+  </url>
+  <!-- Add URLs for your case study pages if they exist -->
+  <!-- Example for case1.html (if it's a real page)
+  <url>
+    <loc>https://mercoradigital.com/case1.html</loc>
+    <lastmod>2024-03-15</lastmod>
+    <priority>0.60</priority>
+  </url>
+  -->
+  <!-- Add URLs for your blog post pages (first.html, second.html, etc.) -->
+   <url>
+    <loc>https://mercoradigital.com/first.html</loc>
+    <lastmod>2024-03-15</lastmod> <!-- CHANGE THIS DATE -->
+    <priority>0.60</priority>
+  </url>
+   <url>
+    <loc>https://mercoradigital.com/second.html</loc>
+    <lastmod>2024-03-15</lastmod> <!-- CHANGE THIS DATE -->
+    <priority>0.60</priority>
+  </url>
+   <url>
+    <loc>https://mercoradigital.com/third.html</loc>
+    <lastmod>2024-03-15</lastmod> <!-- CHANGE THIS DATE -->
+    <priority>0.60</priority>
+  </url>
+  <!-- Add URLs for privacy-policy.html and terms-of-service.html if they exist -->
+  <url>
+    <loc>https://mercoradigital.com/privacy-policy.html</loc>
+    <lastmod>2024-03-15</lastmod> <!-- CHANGE THIS DATE -->
+    <priority>0.30</priority>
+  </url>
+  <url>
+    <loc>https://mercoradigital.com/terms-of-service.html</loc>
+    <lastmod>2024-03-15</lastmod> <!-- CHANGE THIS DATE -->
+    <priority>0.30</priority>
+  </url>
+</urlset>
